@@ -30,6 +30,13 @@ $aMenuLinks = Array(
 		"" 
 	),
 	Array(
+		"Отзывы", 
+		"otzivi.php", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
 		"Вакансии", 
 		"vacancies.php", 
 		Array(), 
